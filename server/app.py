@@ -36,5 +36,3 @@ def math(num1, operation, num2):
     return str(result)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
